@@ -6,7 +6,7 @@
 	* 可直接下載chrome版號的對應版本
 		* 網址 : https://chromedriver.chromium.org/downloads
 	
-	* 或是用chrome_helper.py
+	* 或是用chrome_helper.py & file_util.py
 
 ## seleniumDemo.py
 * Google搜尋例子
