@@ -23,3 +23,9 @@
 	* requests
 	* pandas
 	* datatime
+	
+## 非同步程式
+* async/aiohttp_example.py
+### Reference
+* [整合asyncio與aiohttp打造Python非同步網頁爬蟲](https://www.learncodewithmike.com/2020/09/python-asynchronous-scraper-using-asyncio-and-aiohttp.html)
+* [非同步網頁爬蟲使用GRequests套件提升爬取效率的實作技巧](https://www.learncodewithmike.com/2020/09/python-asynchronous-scraper-using-grequests.html)
