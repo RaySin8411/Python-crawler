@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 4.0.1 (Python 3.9.1 on win32)" generated="20210422 15:07:40.781" rpa="false" schemaversion="2">
+<suite id="s1" name="Robot Tests" source="C:\Users\q8977\OneDrive\桌面\Python-crawler\robot_tests">
+<suite id="s1-s1" name="Robot Test Features" source="C:\Users\q8977\OneDrive\桌面\Python-crawler\robot_tests\robot_test_features.robot">
+<test id="s1-s1-t1" name="Medium Page">
+<kw name="Given User network connected" library="robot_test_keywords">
+<kw name="Verify Network Is Connected" library="robot_test_steps">
+<status status="PASS" starttime="20210422 15:07:40.815" endtime="20210422 15:07:40.815"/>
+</kw>
+<status status="PASS" starttime="20210422 15:07:40.815" endtime="20210422 15:07:40.815"/>
+</kw>
+<kw name="When User browse Medium page" library="robot_test_keywords">
+<kw name="Open Browser To Medium Page" library="robot_test_steps">
+<status status="PASS" starttime="20210422 15:07:40.816" endtime="20210422 15:07:40.816"/>
+</kw>
+<status status="PASS" starttime="20210422 15:07:40.816" endtime="20210422 15:07:40.816"/>
+</kw>
+<kw name="Then User will see &quot;Medium&quot; keyword in page title" library="robot_test_keywords" sourcename="User will see &quot;${PageTitle}&quot; keyword in page title">
+<kw name="Verify Browser Title" library="robot_test_steps">
+<arg>${PageTitle}</arg>
+<status status="PASS" starttime="20210422 15:07:40.817" endtime="20210422 15:07:40.817"/>
+</kw>
+<status status="PASS" starttime="20210422 15:07:40.816" endtime="20210422 15:07:40.817"/>
+</kw>
+<status status="PASS" starttime="20210422 15:07:40.814" endtime="20210422 15:07:40.817"/>
+</test>
+<status status="PASS" starttime="20210422 15:07:40.807" endtime="20210422 15:07:40.819"/>
+</suite>
+<status status="PASS" starttime="20210422 15:07:40.784" endtime="20210422 15:07:40.820"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Tests">Robot Tests</stat>
+<stat pass="1" fail="0" skip="0" id="s1-s1" name="Robot Test Features">Robot Tests.Robot Test Features</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
