@@ -7,6 +7,8 @@ from selenium.webdriver.chrome.options import Options
 # 瀏覽器設置
 chrome_options = Options()
 chrome_options.add_argument('--incognito')
+chrome_options.add_argument('--headless')  #規避google bug
+chrome_options.add_argument('--disable-gpu')
 chrome_options.add_argument('user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:65.0) Gecko/20100101 Firefox/65.0')
 browser = webdriver.Chrome(chrome_options=chrome_options)
 
