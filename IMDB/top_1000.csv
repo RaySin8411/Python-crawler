@@ -1,0 +1,1001 @@
+title,year,director,cast,imdb_rating
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",9.6
+刺激1995,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
+教父,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Paresh Rawal",9.1
+黑暗騎士,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
+教父第二集,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9
+十二怒漢,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",9
+Sardar Udham,2021,Shoojit Sircar,"Vicky Kaushal, Banita Sandhu",8.9
+魔戒三部曲：王者再臨,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9
+黑色追緝令,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9
+辛德勒的名單,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9
+全面啟動,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Dara iz Jasenovca,2020,Predrag Antonijevic,"Biljana Cekic, Zlatan Vidovic",8.8
+鬥陣俱樂部,1999,David Fincher,"Brad Pitt, Edward Norton",8.8
+魔戒首部曲：魔戒現身,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8
+阿甘正傳,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.8
+黃昏三鏢客,1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.8
+Shershaah,2021,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",8.7
+魔戒二部曲：雙城奇謀,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7
+駭客任務,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7
+四海好傢伙,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7
+星際大戰五部曲：帝國大反擊,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7
+飛越杜鵑窩,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7
+寄生上流,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.6
+Drishyam 2,2021,Jeethu Joseph,"Mohanlal, Meena",8.6
+星際效應,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.6
+無法無天,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.6
+神隱少女,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.6
+搶救雷恩大兵,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.6
+綠色奇蹟,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.6
+美麗人生,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+火線追緝令,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6
+沉默的羔羊,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6
+星際大戰,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6
+切腹,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.6
+七武士,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6
+風雲人物,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+進擊的鼓手,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5
+逆轉人生,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5
+頂尖對決,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5
+神鬼無間,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5
+戰地琴人,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5
+神鬼戰士,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
+美國X檔案,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5
+刺激驚爆點,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.5
+終極追殺令,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5
+獅子王,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
+魔鬼終結者2,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5
+新天堂樂園,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.5
+螢火蟲之墓,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.5
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",9.6
+刺激1995,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
+教父,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Paresh Rawal",9.1
+黑暗騎士,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
+教父第二集,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9
+十二怒漢,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",9
+Sardar Udham,2021,Shoojit Sircar,"Vicky Kaushal, Banita Sandhu",8.9
+魔戒三部曲：王者再臨,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9
+黑色追緝令,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9
+辛德勒的名單,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9
+全面啟動,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Dara iz Jasenovca,2020,Predrag Antonijevic,"Biljana Cekic, Zlatan Vidovic",8.8
+鬥陣俱樂部,1999,David Fincher,"Brad Pitt, Edward Norton",8.8
+魔戒首部曲：魔戒現身,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8
+阿甘正傳,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.8
+黃昏三鏢客,1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.8
+Shershaah,2021,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",8.7
+魔戒二部曲：雙城奇謀,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7
+駭客任務,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7
+四海好傢伙,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7
+星際大戰五部曲：帝國大反擊,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7
+飛越杜鵑窩,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7
+寄生上流,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.6
+Drishyam 2,2021,Jeethu Joseph,"Mohanlal, Meena",8.6
+星際效應,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.6
+無法無天,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.6
+神隱少女,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.6
+搶救雷恩大兵,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.6
+綠色奇蹟,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.6
+美麗人生,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+火線追緝令,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6
+沉默的羔羊,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6
+星際大戰,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6
+切腹,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.6
+七武士,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6
+風雲人物,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+進擊的鼓手,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5
+逆轉人生,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5
+頂尖對決,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5
+神鬼無間,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5
+戰地琴人,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5
+神鬼戰士,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
+美國X檔案,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5
+刺激驚爆點,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.5
+終極追殺令,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5
+獅子王,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
+魔鬼終結者2,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5
+新天堂樂園,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.5
+螢火蟲之墓,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.5
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",9.6
+刺激1995,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
+教父,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Paresh Rawal",9.1
+黑暗騎士,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
+教父第二集,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9
+十二怒漢,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",9
+Sardar Udham,2021,Shoojit Sircar,"Vicky Kaushal, Banita Sandhu",8.9
+魔戒三部曲：王者再臨,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9
+黑色追緝令,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9
+辛德勒的名單,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9
+全面啟動,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Dara iz Jasenovca,2020,Predrag Antonijevic,"Biljana Cekic, Zlatan Vidovic",8.8
+鬥陣俱樂部,1999,David Fincher,"Brad Pitt, Edward Norton",8.8
+魔戒首部曲：魔戒現身,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8
+阿甘正傳,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.8
+黃昏三鏢客,1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.8
+Shershaah,2021,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",8.7
+魔戒二部曲：雙城奇謀,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7
+駭客任務,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7
+四海好傢伙,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7
+星際大戰五部曲：帝國大反擊,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7
+飛越杜鵑窩,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7
+寄生上流,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.6
+Drishyam 2,2021,Jeethu Joseph,"Mohanlal, Meena",8.6
+星際效應,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.6
+無法無天,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.6
+神隱少女,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.6
+搶救雷恩大兵,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.6
+綠色奇蹟,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.6
+美麗人生,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+火線追緝令,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6
+沉默的羔羊,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6
+星際大戰,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6
+切腹,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.6
+七武士,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6
+風雲人物,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+進擊的鼓手,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5
+逆轉人生,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5
+頂尖對決,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5
+神鬼無間,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5
+戰地琴人,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5
+神鬼戰士,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
+美國X檔案,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5
+刺激驚爆點,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.5
+終極追殺令,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5
+獅子王,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
+魔鬼終結者2,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5
+新天堂樂園,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.5
+螢火蟲之墓,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.5
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",9.6
+刺激1995,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
+教父,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Paresh Rawal",9.1
+黑暗騎士,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
+教父第二集,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9
+十二怒漢,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",9
+Sardar Udham,2021,Shoojit Sircar,"Vicky Kaushal, Banita Sandhu",8.9
+魔戒三部曲：王者再臨,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9
+黑色追緝令,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9
+辛德勒的名單,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9
+全面啟動,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Dara iz Jasenovca,2020,Predrag Antonijevic,"Biljana Cekic, Zlatan Vidovic",8.8
+鬥陣俱樂部,1999,David Fincher,"Brad Pitt, Edward Norton",8.8
+魔戒首部曲：魔戒現身,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8
+阿甘正傳,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.8
+黃昏三鏢客,1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.8
+Shershaah,2021,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",8.7
+魔戒二部曲：雙城奇謀,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7
+駭客任務,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7
+四海好傢伙,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7
+星際大戰五部曲：帝國大反擊,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7
+飛越杜鵑窩,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7
+寄生上流,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.6
+Drishyam 2,2021,Jeethu Joseph,"Mohanlal, Meena",8.6
+星際效應,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.6
+無法無天,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.6
+神隱少女,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.6
+搶救雷恩大兵,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.6
+綠色奇蹟,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.6
+美麗人生,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+火線追緝令,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6
+沉默的羔羊,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6
+星際大戰,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6
+切腹,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.6
+七武士,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6
+風雲人物,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+進擊的鼓手,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5
+逆轉人生,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5
+頂尖對決,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5
+神鬼無間,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5
+戰地琴人,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5
+神鬼戰士,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
+美國X檔案,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5
+刺激驚爆點,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.5
+終極追殺令,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5
+獅子王,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
+魔鬼終結者2,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5
+新天堂樂園,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.5
+螢火蟲之墓,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.5
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",9.6
+刺激1995,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
+教父,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Paresh Rawal",9.1
+黑暗騎士,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
+教父第二集,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9
+十二怒漢,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",9
+Sardar Udham,2021,Shoojit Sircar,"Vicky Kaushal, Banita Sandhu",8.9
+魔戒三部曲：王者再臨,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9
+黑色追緝令,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9
+辛德勒的名單,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9
+全面啟動,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Dara iz Jasenovca,2020,Predrag Antonijevic,"Biljana Cekic, Zlatan Vidovic",8.8
+鬥陣俱樂部,1999,David Fincher,"Brad Pitt, Edward Norton",8.8
+魔戒首部曲：魔戒現身,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8
+阿甘正傳,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.8
+黃昏三鏢客,1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.8
+Shershaah,2021,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",8.7
+魔戒二部曲：雙城奇謀,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7
+駭客任務,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7
+四海好傢伙,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7
+星際大戰五部曲：帝國大反擊,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7
+飛越杜鵑窩,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7
+寄生上流,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.6
+Drishyam 2,2021,Jeethu Joseph,"Mohanlal, Meena",8.6
+星際效應,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.6
+無法無天,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.6
+神隱少女,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.6
+搶救雷恩大兵,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.6
+綠色奇蹟,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.6
+美麗人生,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+火線追緝令,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6
+沉默的羔羊,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6
+星際大戰,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6
+切腹,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.6
+七武士,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6
+風雲人物,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+進擊的鼓手,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5
+逆轉人生,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5
+頂尖對決,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5
+神鬼無間,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5
+戰地琴人,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5
+神鬼戰士,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
+美國X檔案,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5
+刺激驚爆點,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.5
+終極追殺令,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5
+獅子王,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
+魔鬼終結者2,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5
+新天堂樂園,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.5
+螢火蟲之墓,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.5
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",9.6
+刺激1995,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
+教父,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Paresh Rawal",9.1
+黑暗騎士,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
+教父第二集,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9
+十二怒漢,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",9
+Sardar Udham,2021,Shoojit Sircar,"Vicky Kaushal, Banita Sandhu",8.9
+魔戒三部曲：王者再臨,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9
+黑色追緝令,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9
+辛德勒的名單,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9
+全面啟動,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Dara iz Jasenovca,2020,Predrag Antonijevic,"Biljana Cekic, Zlatan Vidovic",8.8
+鬥陣俱樂部,1999,David Fincher,"Brad Pitt, Edward Norton",8.8
+魔戒首部曲：魔戒現身,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8
+阿甘正傳,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.8
+黃昏三鏢客,1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.8
+Shershaah,2021,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",8.7
+魔戒二部曲：雙城奇謀,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7
+駭客任務,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7
+四海好傢伙,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7
+星際大戰五部曲：帝國大反擊,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7
+飛越杜鵑窩,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7
+寄生上流,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.6
+Drishyam 2,2021,Jeethu Joseph,"Mohanlal, Meena",8.6
+星際效應,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.6
+無法無天,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.6
+神隱少女,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.6
+搶救雷恩大兵,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.6
+綠色奇蹟,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.6
+美麗人生,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+火線追緝令,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6
+沉默的羔羊,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6
+星際大戰,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6
+切腹,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.6
+七武士,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6
+風雲人物,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+進擊的鼓手,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5
+逆轉人生,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5
+頂尖對決,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5
+神鬼無間,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5
+戰地琴人,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5
+神鬼戰士,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
+美國X檔案,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5
+刺激驚爆點,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.5
+終極追殺令,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5
+獅子王,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
+魔鬼終結者2,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5
+新天堂樂園,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.5
+螢火蟲之墓,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.5
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",9.6
+刺激1995,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
+教父,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Paresh Rawal",9.1
+黑暗騎士,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
+教父第二集,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9
+十二怒漢,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",9
+Sardar Udham,2021,Shoojit Sircar,"Vicky Kaushal, Banita Sandhu",8.9
+魔戒三部曲：王者再臨,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9
+黑色追緝令,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9
+辛德勒的名單,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9
+全面啟動,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Dara iz Jasenovca,2020,Predrag Antonijevic,"Biljana Cekic, Zlatan Vidovic",8.8
+鬥陣俱樂部,1999,David Fincher,"Brad Pitt, Edward Norton",8.8
+魔戒首部曲：魔戒現身,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8
+阿甘正傳,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.8
+黃昏三鏢客,1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.8
+Shershaah,2021,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",8.7
+魔戒二部曲：雙城奇謀,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7
+駭客任務,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7
+四海好傢伙,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7
+星際大戰五部曲：帝國大反擊,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7
+飛越杜鵑窩,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7
+寄生上流,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.6
+Drishyam 2,2021,Jeethu Joseph,"Mohanlal, Meena",8.6
+星際效應,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.6
+無法無天,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.6
+神隱少女,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.6
+搶救雷恩大兵,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.6
+綠色奇蹟,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.6
+美麗人生,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+火線追緝令,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6
+沉默的羔羊,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6
+星際大戰,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6
+切腹,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.6
+七武士,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6
+風雲人物,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+進擊的鼓手,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5
+逆轉人生,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5
+頂尖對決,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5
+神鬼無間,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5
+戰地琴人,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5
+神鬼戰士,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
+美國X檔案,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5
+刺激驚爆點,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.5
+終極追殺令,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5
+獅子王,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
+魔鬼終結者2,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5
+新天堂樂園,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.5
+螢火蟲之墓,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.5
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",9.6
+刺激1995,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
+教父,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Paresh Rawal",9.1
+黑暗騎士,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
+教父第二集,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9
+十二怒漢,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",9
+Sardar Udham,2021,Shoojit Sircar,"Vicky Kaushal, Banita Sandhu",8.9
+魔戒三部曲：王者再臨,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9
+黑色追緝令,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9
+辛德勒的名單,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9
+全面啟動,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Dara iz Jasenovca,2020,Predrag Antonijevic,"Biljana Cekic, Zlatan Vidovic",8.8
+鬥陣俱樂部,1999,David Fincher,"Brad Pitt, Edward Norton",8.8
+魔戒首部曲：魔戒現身,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8
+阿甘正傳,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.8
+黃昏三鏢客,1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.8
+Shershaah,2021,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",8.7
+魔戒二部曲：雙城奇謀,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7
+駭客任務,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7
+四海好傢伙,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7
+星際大戰五部曲：帝國大反擊,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7
+飛越杜鵑窩,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7
+寄生上流,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.6
+Drishyam 2,2021,Jeethu Joseph,"Mohanlal, Meena",8.6
+星際效應,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.6
+無法無天,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.6
+神隱少女,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.6
+搶救雷恩大兵,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.6
+綠色奇蹟,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.6
+美麗人生,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+火線追緝令,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6
+沉默的羔羊,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6
+星際大戰,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6
+切腹,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.6
+七武士,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6
+風雲人物,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+進擊的鼓手,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5
+逆轉人生,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5
+頂尖對決,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5
+神鬼無間,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5
+戰地琴人,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5
+神鬼戰士,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
+美國X檔案,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5
+刺激驚爆點,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.5
+終極追殺令,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5
+獅子王,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
+魔鬼終結者2,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5
+新天堂樂園,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.5
+螢火蟲之墓,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.5
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",9.6
+刺激1995,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
+教父,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Paresh Rawal",9.1
+黑暗騎士,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
+教父第二集,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9
+十二怒漢,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",9
+Sardar Udham,2021,Shoojit Sircar,"Vicky Kaushal, Banita Sandhu",8.9
+魔戒三部曲：王者再臨,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9
+黑色追緝令,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9
+辛德勒的名單,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9
+全面啟動,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Dara iz Jasenovca,2020,Predrag Antonijevic,"Biljana Cekic, Zlatan Vidovic",8.8
+鬥陣俱樂部,1999,David Fincher,"Brad Pitt, Edward Norton",8.8
+魔戒首部曲：魔戒現身,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8
+阿甘正傳,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.8
+黃昏三鏢客,1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.8
+Shershaah,2021,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",8.7
+魔戒二部曲：雙城奇謀,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7
+駭客任務,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7
+四海好傢伙,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7
+星際大戰五部曲：帝國大反擊,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7
+飛越杜鵑窩,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7
+寄生上流,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.6
+Drishyam 2,2021,Jeethu Joseph,"Mohanlal, Meena",8.6
+星際效應,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.6
+無法無天,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.6
+神隱少女,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.6
+搶救雷恩大兵,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.6
+綠色奇蹟,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.6
+美麗人生,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+火線追緝令,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6
+沉默的羔羊,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6
+星際大戰,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6
+切腹,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.6
+七武士,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6
+風雲人物,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+進擊的鼓手,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5
+逆轉人生,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5
+頂尖對決,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5
+神鬼無間,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5
+戰地琴人,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5
+神鬼戰士,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
+美國X檔案,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5
+刺激驚爆點,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.5
+終極追殺令,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5
+獅子王,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
+魔鬼終結者2,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5
+新天堂樂園,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.5
+螢火蟲之墓,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.5
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",9.6
+刺激1995,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
+教父,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Paresh Rawal",9.1
+黑暗騎士,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
+教父第二集,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9
+十二怒漢,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",9
+Sardar Udham,2021,Shoojit Sircar,"Vicky Kaushal, Banita Sandhu",8.9
+魔戒三部曲：王者再臨,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9
+黑色追緝令,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9
+辛德勒的名單,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9
+全面啟動,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Dara iz Jasenovca,2020,Predrag Antonijevic,"Biljana Cekic, Zlatan Vidovic",8.8
+鬥陣俱樂部,1999,David Fincher,"Brad Pitt, Edward Norton",8.8
+魔戒首部曲：魔戒現身,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8
+阿甘正傳,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.8
+黃昏三鏢客,1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.8
+Shershaah,2021,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",8.7
+魔戒二部曲：雙城奇謀,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7
+駭客任務,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7
+四海好傢伙,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7
+星際大戰五部曲：帝國大反擊,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7
+飛越杜鵑窩,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7
+寄生上流,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.6
+Drishyam 2,2021,Jeethu Joseph,"Mohanlal, Meena",8.6
+星際效應,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.6
+無法無天,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.6
+神隱少女,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.6
+搶救雷恩大兵,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.6
+綠色奇蹟,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.6
+美麗人生,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+火線追緝令,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6
+沉默的羔羊,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6
+星際大戰,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6
+切腹,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.6
+七武士,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6
+風雲人物,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+進擊的鼓手,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5
+逆轉人生,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5
+頂尖對決,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5
+神鬼無間,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5
+戰地琴人,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5
+神鬼戰士,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
+美國X檔案,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5
+刺激驚爆點,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.5
+終極追殺令,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5
+獅子王,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
+魔鬼終結者2,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5
+新天堂樂園,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.5
+螢火蟲之墓,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.5
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",9.6
+刺激1995,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
+教父,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Paresh Rawal",9.1
+黑暗騎士,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
+教父第二集,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9
+十二怒漢,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",9
+Sardar Udham,2021,Shoojit Sircar,"Vicky Kaushal, Banita Sandhu",8.9
+魔戒三部曲：王者再臨,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9
+黑色追緝令,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9
+辛德勒的名單,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9
+全面啟動,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Dara iz Jasenovca,2020,Predrag Antonijevic,"Biljana Cekic, Zlatan Vidovic",8.8
+鬥陣俱樂部,1999,David Fincher,"Brad Pitt, Edward Norton",8.8
+魔戒首部曲：魔戒現身,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8
+阿甘正傳,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.8
+黃昏三鏢客,1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.8
+Shershaah,2021,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",8.7
+魔戒二部曲：雙城奇謀,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7
+駭客任務,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7
+四海好傢伙,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7
+星際大戰五部曲：帝國大反擊,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7
+飛越杜鵑窩,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7
+寄生上流,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.6
+Drishyam 2,2021,Jeethu Joseph,"Mohanlal, Meena",8.6
+星際效應,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.6
+無法無天,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.6
+神隱少女,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.6
+搶救雷恩大兵,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.6
+綠色奇蹟,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.6
+美麗人生,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+火線追緝令,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6
+沉默的羔羊,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6
+星際大戰,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6
+切腹,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.6
+七武士,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6
+風雲人物,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+進擊的鼓手,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5
+逆轉人生,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5
+頂尖對決,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5
+神鬼無間,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5
+戰地琴人,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5
+神鬼戰士,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
+美國X檔案,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5
+刺激驚爆點,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.5
+終極追殺令,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5
+獅子王,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
+魔鬼終結者2,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5
+新天堂樂園,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.5
+螢火蟲之墓,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.5
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",9.6
+刺激1995,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
+教父,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Paresh Rawal",9.1
+黑暗騎士,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
+教父第二集,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9
+十二怒漢,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",9
+Sardar Udham,2021,Shoojit Sircar,"Vicky Kaushal, Banita Sandhu",8.9
+魔戒三部曲：王者再臨,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9
+黑色追緝令,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9
+辛德勒的名單,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9
+全面啟動,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Dara iz Jasenovca,2020,Predrag Antonijevic,"Biljana Cekic, Zlatan Vidovic",8.8
+鬥陣俱樂部,1999,David Fincher,"Brad Pitt, Edward Norton",8.8
+魔戒首部曲：魔戒現身,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8
+阿甘正傳,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.8
+黃昏三鏢客,1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.8
+Shershaah,2021,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",8.7
+魔戒二部曲：雙城奇謀,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7
+駭客任務,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7
+四海好傢伙,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7
+星際大戰五部曲：帝國大反擊,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7
+飛越杜鵑窩,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7
+寄生上流,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.6
+Drishyam 2,2021,Jeethu Joseph,"Mohanlal, Meena",8.6
+星際效應,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.6
+無法無天,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.6
+神隱少女,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.6
+搶救雷恩大兵,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.6
+綠色奇蹟,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.6
+美麗人生,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+火線追緝令,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6
+沉默的羔羊,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6
+星際大戰,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6
+切腹,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.6
+七武士,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6
+風雲人物,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+進擊的鼓手,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5
+逆轉人生,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5
+頂尖對決,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5
+神鬼無間,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5
+戰地琴人,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5
+神鬼戰士,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
+美國X檔案,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5
+刺激驚爆點,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.5
+終極追殺令,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5
+獅子王,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
+魔鬼終結者2,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5
+新天堂樂園,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.5
+螢火蟲之墓,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.5
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",9.6
+刺激1995,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
+教父,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Paresh Rawal",9.1
+黑暗騎士,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
+教父第二集,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9
+十二怒漢,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",9
+Sardar Udham,2021,Shoojit Sircar,"Vicky Kaushal, Banita Sandhu",8.9
+魔戒三部曲：王者再臨,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9
+黑色追緝令,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9
+辛德勒的名單,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9
+全面啟動,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Dara iz Jasenovca,2020,Predrag Antonijevic,"Biljana Cekic, Zlatan Vidovic",8.8
+鬥陣俱樂部,1999,David Fincher,"Brad Pitt, Edward Norton",8.8
+魔戒首部曲：魔戒現身,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8
+阿甘正傳,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.8
+黃昏三鏢客,1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.8
+Shershaah,2021,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",8.7
+魔戒二部曲：雙城奇謀,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7
+駭客任務,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7
+四海好傢伙,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7
+星際大戰五部曲：帝國大反擊,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7
+飛越杜鵑窩,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7
+寄生上流,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.6
+Drishyam 2,2021,Jeethu Joseph,"Mohanlal, Meena",8.6
+星際效應,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.6
+無法無天,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.6
+神隱少女,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.6
+搶救雷恩大兵,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.6
+綠色奇蹟,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.6
+美麗人生,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+火線追緝令,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6
+沉默的羔羊,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6
+星際大戰,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6
+切腹,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.6
+七武士,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6
+風雲人物,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+進擊的鼓手,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5
+逆轉人生,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5
+頂尖對決,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5
+神鬼無間,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5
+戰地琴人,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5
+神鬼戰士,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
+美國X檔案,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5
+刺激驚爆點,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.5
+終極追殺令,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5
+獅子王,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
+魔鬼終結者2,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5
+新天堂樂園,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.5
+螢火蟲之墓,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.5
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",9.6
+刺激1995,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
+教父,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Paresh Rawal",9.1
+黑暗騎士,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
+教父第二集,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9
+十二怒漢,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",9
+Sardar Udham,2021,Shoojit Sircar,"Vicky Kaushal, Banita Sandhu",8.9
+魔戒三部曲：王者再臨,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9
+黑色追緝令,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9
+辛德勒的名單,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9
+全面啟動,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Dara iz Jasenovca,2020,Predrag Antonijevic,"Biljana Cekic, Zlatan Vidovic",8.8
+鬥陣俱樂部,1999,David Fincher,"Brad Pitt, Edward Norton",8.8
+魔戒首部曲：魔戒現身,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8
+阿甘正傳,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.8
+黃昏三鏢客,1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.8
+Shershaah,2021,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",8.7
+魔戒二部曲：雙城奇謀,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7
+駭客任務,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7
+四海好傢伙,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7
+星際大戰五部曲：帝國大反擊,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7
+飛越杜鵑窩,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7
+寄生上流,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.6
+Drishyam 2,2021,Jeethu Joseph,"Mohanlal, Meena",8.6
+星際效應,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.6
+無法無天,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.6
+神隱少女,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.6
+搶救雷恩大兵,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.6
+綠色奇蹟,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.6
+美麗人生,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+火線追緝令,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6
+沉默的羔羊,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6
+星際大戰,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6
+切腹,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.6
+七武士,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6
+風雲人物,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+進擊的鼓手,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5
+逆轉人生,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5
+頂尖對決,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5
+神鬼無間,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5
+戰地琴人,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5
+神鬼戰士,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
+美國X檔案,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5
+刺激驚爆點,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.5
+終極追殺令,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5
+獅子王,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
+魔鬼終結者2,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5
+新天堂樂園,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.5
+螢火蟲之墓,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.5
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",9.6
+刺激1995,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
+教父,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Paresh Rawal",9.1
+黑暗騎士,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
+教父第二集,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9
+十二怒漢,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",9
+Sardar Udham,2021,Shoojit Sircar,"Vicky Kaushal, Banita Sandhu",8.9
+魔戒三部曲：王者再臨,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9
+黑色追緝令,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9
+辛德勒的名單,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9
+全面啟動,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Dara iz Jasenovca,2020,Predrag Antonijevic,"Biljana Cekic, Zlatan Vidovic",8.8
+鬥陣俱樂部,1999,David Fincher,"Brad Pitt, Edward Norton",8.8
+魔戒首部曲：魔戒現身,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8
+阿甘正傳,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.8
+黃昏三鏢客,1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.8
+Shershaah,2021,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",8.7
+魔戒二部曲：雙城奇謀,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7
+駭客任務,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7
+四海好傢伙,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7
+星際大戰五部曲：帝國大反擊,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7
+飛越杜鵑窩,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7
+寄生上流,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.6
+Drishyam 2,2021,Jeethu Joseph,"Mohanlal, Meena",8.6
+星際效應,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.6
+無法無天,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.6
+神隱少女,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.6
+搶救雷恩大兵,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.6
+綠色奇蹟,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.6
+美麗人生,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+火線追緝令,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6
+沉默的羔羊,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6
+星際大戰,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6
+切腹,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.6
+七武士,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6
+風雲人物,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+進擊的鼓手,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5
+逆轉人生,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5
+頂尖對決,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5
+神鬼無間,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5
+戰地琴人,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5
+神鬼戰士,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
+美國X檔案,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5
+刺激驚爆點,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.5
+終極追殺令,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5
+獅子王,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
+魔鬼終結者2,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5
+新天堂樂園,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.5
+螢火蟲之墓,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.5
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",9.6
+刺激1995,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
+教父,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Paresh Rawal",9.1
+黑暗騎士,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
+教父第二集,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9
+十二怒漢,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",9
+Sardar Udham,2021,Shoojit Sircar,"Vicky Kaushal, Banita Sandhu",8.9
+魔戒三部曲：王者再臨,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9
+黑色追緝令,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9
+辛德勒的名單,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9
+全面啟動,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Dara iz Jasenovca,2020,Predrag Antonijevic,"Biljana Cekic, Zlatan Vidovic",8.8
+鬥陣俱樂部,1999,David Fincher,"Brad Pitt, Edward Norton",8.8
+魔戒首部曲：魔戒現身,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8
+阿甘正傳,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.8
+黃昏三鏢客,1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.8
+Shershaah,2021,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",8.7
+魔戒二部曲：雙城奇謀,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7
+駭客任務,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7
+四海好傢伙,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7
+星際大戰五部曲：帝國大反擊,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7
+飛越杜鵑窩,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7
+寄生上流,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.6
+Drishyam 2,2021,Jeethu Joseph,"Mohanlal, Meena",8.6
+星際效應,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.6
+無法無天,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.6
+神隱少女,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.6
+搶救雷恩大兵,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.6
+綠色奇蹟,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.6
+美麗人生,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+火線追緝令,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6
+沉默的羔羊,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6
+星際大戰,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6
+切腹,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.6
+七武士,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6
+風雲人物,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+進擊的鼓手,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5
+逆轉人生,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5
+頂尖對決,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5
+神鬼無間,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5
+戰地琴人,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5
+神鬼戰士,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
+美國X檔案,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5
+刺激驚爆點,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.5
+終極追殺令,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5
+獅子王,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
+魔鬼終結者2,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5
+新天堂樂園,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.5
+螢火蟲之墓,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.5
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",9.6
+刺激1995,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
+教父,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Paresh Rawal",9.1
+黑暗騎士,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
+教父第二集,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9
+十二怒漢,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",9
+Sardar Udham,2021,Shoojit Sircar,"Vicky Kaushal, Banita Sandhu",8.9
+魔戒三部曲：王者再臨,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9
+黑色追緝令,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9
+辛德勒的名單,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9
+全面啟動,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Dara iz Jasenovca,2020,Predrag Antonijevic,"Biljana Cekic, Zlatan Vidovic",8.8
+鬥陣俱樂部,1999,David Fincher,"Brad Pitt, Edward Norton",8.8
+魔戒首部曲：魔戒現身,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8
+阿甘正傳,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.8
+黃昏三鏢客,1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.8
+Shershaah,2021,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",8.7
+魔戒二部曲：雙城奇謀,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7
+駭客任務,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7
+四海好傢伙,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7
+星際大戰五部曲：帝國大反擊,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7
+飛越杜鵑窩,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7
+寄生上流,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.6
+Drishyam 2,2021,Jeethu Joseph,"Mohanlal, Meena",8.6
+星際效應,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.6
+無法無天,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.6
+神隱少女,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.6
+搶救雷恩大兵,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.6
+綠色奇蹟,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.6
+美麗人生,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+火線追緝令,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6
+沉默的羔羊,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6
+星際大戰,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6
+切腹,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.6
+七武士,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6
+風雲人物,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+進擊的鼓手,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5
+逆轉人生,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5
+頂尖對決,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5
+神鬼無間,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5
+戰地琴人,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5
+神鬼戰士,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
+美國X檔案,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5
+刺激驚爆點,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.5
+終極追殺令,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5
+獅子王,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
+魔鬼終結者2,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5
+新天堂樂園,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.5
+螢火蟲之墓,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.5
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",9.6
+刺激1995,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
+教父,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Paresh Rawal",9.1
+黑暗騎士,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
+教父第二集,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9
+十二怒漢,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",9
+Sardar Udham,2021,Shoojit Sircar,"Vicky Kaushal, Banita Sandhu",8.9
+魔戒三部曲：王者再臨,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9
+黑色追緝令,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9
+辛德勒的名單,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9
+全面啟動,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Dara iz Jasenovca,2020,Predrag Antonijevic,"Biljana Cekic, Zlatan Vidovic",8.8
+鬥陣俱樂部,1999,David Fincher,"Brad Pitt, Edward Norton",8.8
+魔戒首部曲：魔戒現身,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8
+阿甘正傳,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.8
+黃昏三鏢客,1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.8
+Shershaah,2021,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",8.7
+魔戒二部曲：雙城奇謀,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7
+駭客任務,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7
+四海好傢伙,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7
+星際大戰五部曲：帝國大反擊,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7
+飛越杜鵑窩,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7
+寄生上流,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.6
+Drishyam 2,2021,Jeethu Joseph,"Mohanlal, Meena",8.6
+星際效應,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.6
+無法無天,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.6
+神隱少女,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.6
+搶救雷恩大兵,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.6
+綠色奇蹟,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.6
+美麗人生,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+火線追緝令,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6
+沉默的羔羊,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6
+星際大戰,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6
+切腹,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.6
+七武士,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6
+風雲人物,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+進擊的鼓手,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5
+逆轉人生,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5
+頂尖對決,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5
+神鬼無間,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5
+戰地琴人,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5
+神鬼戰士,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
+美國X檔案,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5
+刺激驚爆點,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.5
+終極追殺令,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5
+獅子王,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
+魔鬼終結者2,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5
+新天堂樂園,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.5
+螢火蟲之墓,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.5
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",9.6
+刺激1995,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
+教父,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Paresh Rawal",9.1
+黑暗騎士,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
+教父第二集,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9
+十二怒漢,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",9
+Sardar Udham,2021,Shoojit Sircar,"Vicky Kaushal, Banita Sandhu",8.9
+魔戒三部曲：王者再臨,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9
+黑色追緝令,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9
+辛德勒的名單,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9
+全面啟動,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Dara iz Jasenovca,2020,Predrag Antonijevic,"Biljana Cekic, Zlatan Vidovic",8.8
+鬥陣俱樂部,1999,David Fincher,"Brad Pitt, Edward Norton",8.8
+魔戒首部曲：魔戒現身,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8
+阿甘正傳,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.8
+黃昏三鏢客,1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.8
+Shershaah,2021,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",8.7
+魔戒二部曲：雙城奇謀,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7
+駭客任務,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7
+四海好傢伙,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7
+星際大戰五部曲：帝國大反擊,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7
+飛越杜鵑窩,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7
+寄生上流,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.6
+Drishyam 2,2021,Jeethu Joseph,"Mohanlal, Meena",8.6
+星際效應,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.6
+無法無天,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.6
+神隱少女,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.6
+搶救雷恩大兵,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.6
+綠色奇蹟,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.6
+美麗人生,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+火線追緝令,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6
+沉默的羔羊,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6
+星際大戰,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6
+切腹,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.6
+七武士,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6
+風雲人物,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+進擊的鼓手,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5
+逆轉人生,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5
+頂尖對決,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5
+神鬼無間,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5
+戰地琴人,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5
+神鬼戰士,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
+美國X檔案,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5
+刺激驚爆點,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.5
+終極追殺令,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5
+獅子王,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
+魔鬼終結者2,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5
+新天堂樂園,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.5
+螢火蟲之墓,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.5
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",9.6
+刺激1995,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
+教父,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Paresh Rawal",9.1
+黑暗騎士,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
+教父第二集,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9
+十二怒漢,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",9
+Sardar Udham,2021,Shoojit Sircar,"Vicky Kaushal, Banita Sandhu",8.9
+魔戒三部曲：王者再臨,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9
+黑色追緝令,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9
+辛德勒的名單,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9
+全面啟動,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Dara iz Jasenovca,2020,Predrag Antonijevic,"Biljana Cekic, Zlatan Vidovic",8.8
+鬥陣俱樂部,1999,David Fincher,"Brad Pitt, Edward Norton",8.8
+魔戒首部曲：魔戒現身,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8
+阿甘正傳,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.8
+黃昏三鏢客,1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.8
+Shershaah,2021,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani",8.7
+魔戒二部曲：雙城奇謀,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7
+駭客任務,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7
+四海好傢伙,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7
+星際大戰五部曲：帝國大反擊,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7
+飛越杜鵑窩,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7
+寄生上流,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.6
+Drishyam 2,2021,Jeethu Joseph,"Mohanlal, Meena",8.6
+星際效應,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.6
+無法無天,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.6
+神隱少女,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.6
+搶救雷恩大兵,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.6
+綠色奇蹟,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.6
+美麗人生,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+火線追緝令,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6
+沉默的羔羊,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6
+星際大戰,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6
+切腹,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.6
+七武士,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6
+風雲人物,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+進擊的鼓手,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5
+逆轉人生,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5
+頂尖對決,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5
+神鬼無間,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5
+戰地琴人,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5
+神鬼戰士,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
+美國X檔案,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5
+刺激驚爆點,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.5
+終極追殺令,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5
+獅子王,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
+魔鬼終結者2,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5
+新天堂樂園,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.5
+螢火蟲之墓,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.5
